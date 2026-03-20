@@ -14,7 +14,7 @@
        /* NAV BAR YA KULALA JUU */
 nav {
   position: fixed;
-  top: 0;
+  bottom: 0;
   left: 0;
   width: 100%;
   background-color: #ec6308;
@@ -38,7 +38,7 @@ nav {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 10px;
   transition: 0.3s;
 }
 
@@ -221,7 +221,7 @@ form {
     
       .whatsapp-float {
       position: fixed;
-      bottom: 20px;
+      bottom: 40px;
       right: 20px;
       background: #25d366;
       color: white;
