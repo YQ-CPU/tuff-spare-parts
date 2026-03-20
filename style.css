@@ -38,7 +38,7 @@ nav {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 13px;
   transition: 0.3s;
 }
 
@@ -47,7 +47,7 @@ nav {
   transform: scale(1.05);
 }
      header{
-      padding-top:30px;
+      padding-top: 20px;
       padding-bottom: 20px;
       text-align: center;
      }
