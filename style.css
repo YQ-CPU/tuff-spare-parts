@@ -47,7 +47,7 @@ nav {
   transform: scale(1.05);
 }
      header{
-      padding-top:80px;
+      padding-top:30px;
       padding-bottom: 20px;
       text-align: center;
      }
@@ -221,7 +221,7 @@ form {
     
       .whatsapp-float {
       position: fixed;
-      bottom: 40px;
+      bottom: 60px;
       right: 20px;
       background: #25d366;
       color: white;
